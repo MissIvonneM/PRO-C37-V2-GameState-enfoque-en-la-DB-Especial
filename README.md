@@ -1,1 +1,2 @@
-# PRO-C37-V2-GameState-enfoque-en-la-DB-Especial
+# C37-Actividad de la maestra 2
+Código de referencia
